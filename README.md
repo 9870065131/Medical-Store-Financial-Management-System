@@ -3,5 +3,7 @@ Here medical counter boy can record their whole day case and they can view recor
 
 Default Credential:
 
-Username:admin
-Password:admin
+Username : admin
+
+Password : admin
+
