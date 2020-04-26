@@ -7,4 +7,4 @@ Username : admin
 
 Password : admin
 
-Live Demo : http://shelltesting.byethost31.com/
+Live Demo : http://medicalbtd.epizy.com
